@@ -1,4 +1,4 @@
-# Flask Wellness Web App 🐬✨
+# Flask Daily Check-in Web App ✨
 
 ---
 
@@ -13,10 +13,10 @@
 ## Pages Included
 
 - 🏠 **Home Page**
-  The initial landing page of the application. It features a friendly greeting that asks users “How are you feeling today?”, encouraging mindfulness and emotional awareness. Navigation links are available at the top via a soft-colored navbar.
+  The initial landing page of the application. It features a friendly greeting that asks users “How are you today?”, encouraging mindfulness and emotional awareness. 
 
 - 📘 **About Page**
-  Provides a concise description of the web application's purpose as a wellness check-in platform. The page includes styling that aligns with the app's soft and comforting design theme.
+  Provides a concise description of the web application's purpose as a wellness check-in platform.
 
 - 📩 **Contact Page**
  Features a functional contact form that allows users to input their name and a message. The form includes validation for required fields and uses styled input elements with rounded corners and soft hover effects for an enhanced user experience.
@@ -59,7 +59,7 @@ sudo ufw allow 5000
 
 ---
 
-## 🛠️ Issues Encountered and Solutions
+## Issues Encountered and Solutions
 
 ### 1. Bootstrap Styles Not Applying Properly
 - **Issue**: The design did not appear as expected when the web pages were first loaded.
