@@ -13,12 +13,13 @@
 
 ## How to Run the Project
 
-1. 💾 Clone or copy the project to your local machine.
-2. 🔧 Open a terminal inside the project folder.
-3. 🐍 Run the following command:
+1.  Clone or copy the project to your local machine.
+2.  Open a terminal inside the project folder.
+3.  Run the following command:
 
 ```bash
 python3 app.py
+```
 
 or using Flask CLI:
 
@@ -37,7 +38,7 @@ Get your IP address using:
 hostname -I
 ```
 
-## 🔐 Allow Port Through Firewall
+## Allow Port Through Firewall
 
 ```bash
 sudo apt install ufw -y
